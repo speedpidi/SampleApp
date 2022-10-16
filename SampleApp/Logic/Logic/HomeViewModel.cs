@@ -9,8 +9,8 @@
     using System.Text.Json;
     using System.Windows;
     using System.Windows.Data;
-    using Microsoft.Toolkit.Mvvm.ComponentModel;
-    using Microsoft.Toolkit.Mvvm.Input;
+    using CommunityToolkit.Mvvm.ComponentModel;
+    using CommunityToolkit.Mvvm.Input;
     using Model;
 
     public class HomeViewModel : ObservableObject

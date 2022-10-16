@@ -3,11 +3,11 @@
     using System;
     using System.ComponentModel;
     using System.Windows;
+    using CommunityToolkit.Mvvm.ComponentModel;
+    using CommunityToolkit.Mvvm.Input;
+    using CommunityToolkit.Mvvm.Messaging;
     using Interfaces;
     using Messages;
-    using Microsoft.Toolkit.Mvvm.ComponentModel;
-    using Microsoft.Toolkit.Mvvm.Input;
-    using Microsoft.Toolkit.Mvvm.Messaging;
     using Model.EventArgs;
 
     /// <summary>

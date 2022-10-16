@@ -2,7 +2,7 @@
 {
     using System.ComponentModel;
     using System.Windows;
-    using Microsoft.Toolkit.Mvvm.DependencyInjection;
+    using CommunityToolkit.Mvvm.DependencyInjection;
     using Interfaces;
     using Microsoft.Extensions.DependencyInjection;
     using Services;

@@ -2,8 +2,8 @@
 {
     using System.Linq;
     using System.Windows;
+    using CommunityToolkit.Mvvm.Messaging;
     using SampleApp.Logic.Messages;
-    using Microsoft.Toolkit.Mvvm.Messaging;
 
     public class MessageListener
     {
